@@ -2,7 +2,7 @@
 
 ## Independent software developer
 
-I build Android applications and interactive software with an emphasis on thoughtful user experiences, reliable persistence, and privacy-conscious engineering.
+I build Android applications and interactive software with an emphasis on thoughtful user experiences.
 
 ## Projects
 
