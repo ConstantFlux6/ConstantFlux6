@@ -1,16 +1,26 @@
-## Hi there 👋
+# Taylor Quimby
 
-<!--
-**ConstantFlux6/ConstantFlux6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Independent software developer
 
-Here are some ideas to get you started:
+I build Android applications and interactive software with an emphasis on thoughtful user experiences, reliable persistence, and privacy-conscious engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Tactile Loop
+An Android tactile and puzzle game focused on responsive interaction, progression, and durable game state.
+
+- [Privacy policy](https://tactile-loop-privacy.netlify.app/)
+
+### Flux Colorful
+An Android color utility app for exploring, organizing, and working with color.
+
+- [Privacy policy](https://flux-colorful-privacy.netlify.app/)
+
+## What I work with
+
+- Android, Kotlin, and Jetpack Compose
+- Firebase and Firestore application backends
+- Gameplay systems, persistence, testing, and release workflows
+- Privacy, safety, and abuse-resistant app design
+
+These are independently developed projects. Their production source repositories are currently private; the linked sites provide public product and privacy information.
